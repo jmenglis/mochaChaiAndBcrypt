@@ -3,6 +3,7 @@
 *Testing BCrypt on Node.js with Mocha + Chai.*
 
 [![Build Status](https://travis-ci.org/code-for-coffee/mochaChaiAndBcrypt.svg?branch=master)](https://travis-ci.org/code-for-coffee/mochaChaiAndBcrypt)
+(This build status shows the statuses of the test command specified in `package.json`'s `script.tests` using a service like https://travis-ci.org)
 
 
 ![giphy.gif](giphy.gif)

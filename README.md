@@ -2,6 +2,9 @@
 
 *Testing BCrypt on Node.js with Mocha + Chai.*
 
+[![Build Status](https://travis-ci.org/code-for-coffee/mochaChaiAndBcrypt.svg?branch=master)](https://travis-ci.org/code-for-coffee/mochaChaiAndBcrypt)
+
+
 ![giphy.gif](giphy.gif)
 
 ## Getting Started
